@@ -4,7 +4,7 @@ Alloy Java API Example
 To use [Alloy Java API](http://alloy.lcs.mit.edu/alloy/documentation/alloy-api/),
 you can use an IntelliJ project structure like this one.
 
-The example file is taken from http://alloy.lcs.mit.edu/alloy/alloy-api-examples.html.
+The example files are taken from http://alloy.lcs.mit.edu/alloy/alloy-api-examples.html and https://alloytools.org/tutorials/online/frame-FS-7.html.
 
 Adding Alloy _jar_ dependency to project is possible by the following steps: [[+](https://stackoverflow.com/a/1051705)]
 * open _File_ menu
